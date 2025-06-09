@@ -1,4 +1,6 @@
-![Portada](https://res.cloudinary.com/drsyb53ae/image/upload/v1749444790/readmeGithub/eldihiaygf0aje1tpwod.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/drsyb53ae/image/upload/v1749444790/readmeGithub/eldihiaygf0aje1tpwod.png" width="800" alt="Portada de perfil" />
+</p>
 
 <h1 align="center">¡Hola! Soy Braulio 👋</h1>
 
@@ -29,9 +31,9 @@
 
 ### 📫 Contacto
 
-- 📷 Instagram de fotografía: [@tuusuario_foto](https://instagram.com/tuusuario_foto)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tuusuario_foto): [@tuusuario_foto](https://instagram.com/tuusuario_foto)
 - 💻 Portafolio web: *En construcción*
 
 ---
 
-> *"Apunta a ser alguien que pueda solucionar cualquier tipo de problema."* — B
+> *"Apuntando a ser alguien que pueda solucionar cualquier tipo de problema."* 
