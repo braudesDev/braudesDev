@@ -1,32 +1,36 @@
+![Portada](https://res.cloudinary.com/drsyb53ae/image/upload/v1749444790/readmeGithub/eldihiaygf0aje1tpwod.png)
+
 <h1 align="center">¡Hola! Soy Braulio 👋</h1>
 
-🎓 Egresado de Ingeniería en Sistemas Computacionales, aprendiendo sobre desarrollo web, Angular y sistemas Linux.  
-🕒 En espera de título y certificado
-📍 Desde Irapuato, Gto, México.  
-📸 También tengo un negocio de fotografía.
+🎓 Egresado de Ingeniería en Sistemas Computacionales — aprendiendo sobre desarrollo web, Angular y Linux  
+📍 Vivo en Irapuato, Guanajuato, México  
 
 ---
 
-### 🚀 Tecnologías que estoy usando
+### 🚀 Tecnologías y herramientas que uso
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ### 📈 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braudesDev&layout=compact&theme=tokyonight)
-![braudesDev GitHub stats](https://github-readme-stats.vercel.app/api?username=braudesDev&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=braudesDev&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braudesDev&layout=compact&theme=tokyonight" width="47%" />
+</div>
 
 ---
 
-### 📫 ¿Quieres contactarme?
+### 📫 Contacto
 
-- 📷 Instagram de fotos: [@tuusuario_foto](https://instagram.com/tuusuario_foto)
-- 💻 Portafolio: *En construcción*
+- 📷 Instagram de fotografía: [@tuusuario_foto](https://instagram.com/tuusuario_foto)
+- 💻 Portafolio web: *En construcción*
 
 ---
 
