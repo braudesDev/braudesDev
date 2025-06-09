@@ -2,7 +2,6 @@
 
 🎓 Egresado de Ingeniería en Sistemas Computacionales, aprendiendo sobre desarrollo web, Angular y sistemas Linux.  
 🕒 En espera de título y certificado
-🔧 Actualmente estoy desarrollando una app para controlar rutas y sobrantes de panaderías.  
 📍 Desde Irapuato, Gto, México.  
 📸 También tengo un negocio de fotografía.
 
