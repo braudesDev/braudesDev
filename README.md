@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/drsyb53ae/image/upload/v1749444790/readmeGithub/eldihiaygf0aje1tpwod.png" width="800" alt="Portada de perfil" />
 </p>
 
-<h1 align="center">¡Hola! Soy Braulio 👋</h1>
+<h1 align="center">¡Hola! Soy Braulio Rodríguez 👋</h1>
 
 🎓 Egresado de Ingeniería en Sistemas Computacionales — aprendiendo sobre desarrollo web, Angular y Linux  
 📍 Vivo en Irapuato, Guanajuato, México  
