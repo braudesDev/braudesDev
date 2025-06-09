@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
+
+
+
 </p>
 
 ---
